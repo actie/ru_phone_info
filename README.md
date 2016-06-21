@@ -1,6 +1,6 @@
 # RuPhoneInfo
 
-Гем обертка для [Выписки из реестра Российской системы и плана нумерации](ttp://rossvyaz.ru/activity/num_resurs/registerNum/)
+Гем обертка для [Выписки из реестра Российской системы и плана нумерации](http://rossvyaz.ru/activity/num_resurs/registerNum/)
 
 Возвращает регион и оператора по номеру мобильного телефона
 
