@@ -6,19 +6,22 @@
 
 Актуально по состоянию на 19.05.2016
 
-
 ## Установка
 
 Добавьте в Gemfile:
 
 ```ruby
-gem 'ru_phone_info', github: "actie/ru_phone_info"
+gem 'ru_phone_info'
 ```
 
-запустите:
+и запустите:
 
     $ bundle
 
+или 
+```ruby
+gem install ru_phone_info
+```
 
 ## Использование
 
